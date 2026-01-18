@@ -1,4 +1,4 @@
-# mansi123.github.io
+---
 ## 💖 To my birthday girl ✨ 
 
 Happy Birthday Saiesha 🎉  
@@ -8,3 +8,22 @@ I will always always love you aise mt soch ki mai phone nhi krti toh mai tughse 
 
 With love,  
 Mansi 💖
+---
+<div style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap;">
+
+  <!-- LEFT COLUMN -->
+  <div style="display:flex; flex-direction:column; gap:12px; max-width:48%;">
+    <img src="IMG-20260119-WA0001.jpg" style="width:100%; border-radius:16px;">
+    <img src="IMG-20260119-WA0002.jpg" style="width:100%; border-radius:16px;">
+    <img src="IMG-20260119-WA0003.jpg" style="width:100%; border-radius:16px;">
+    <img src="IMG-20260119-WA0004.jpg" style="width:100%; border-radius:16px;">
+  </div>
+
+  <!-- RIGHT COLUMN (BIG PHOTO) -->
+  <div style="max-width:48%;">
+    <img src="IMG-20260119-WA0006.jpg" style="width:100%; height:100%; border-radius:18px; object-fit:cover;">
+  </div>
+
+</div>
+
+---
